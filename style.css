@@ -1,0 +1,154 @@
+* {
+  padding: 0%;
+  box-sizing: border-box;
+  margin: 0%;
+}
+ul,
+ol {
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+}
+header {
+  justify-content: center;
+  max-width: 1336px;
+  margin-left: 52px;
+  align-items: center;
+  text-align: center;
+  margin-top: 80px;
+  margin-bottom: 48px;
+}
+h1 {
+  font-size: 16px;
+  line-height: 26px;
+  margin-bottom: 4px;
+  color: #282828;
+}
+h2 {
+  font-size: 54px;
+  line-height: 62px;
+  color: #282828;
+  margin-bottom: 16px;
+}
+h3 {
+  max-width: 716px;
+  text-align: center;
+  margin-left: 288px;
+  font-size: 20px;
+  line-height: 35px;
+  color: #5f6980;
+}
+
+main {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-left: 52px;
+  margin-right: 52px;
+}
+h4 {
+  max-width: 278px;
+  font-size: 18px;
+  line-height: 30px;
+  margin-top: 16px;
+  color: #282828;
+}
+
+h5 {
+  font-size: 14px;
+  line-height: 22px;
+  max-width: 278px;
+  margin-top: 4px;
+  color: #3e3e59;
+}
+h6 {
+  font-size: 14px;
+  line-height: 22px;
+  max-width: 278px;
+  margin-top: 4px;
+  color: #5f6980;
+}
+.media {
+  display: flex;
+  border-radius: 700px;
+  margin-left: 16px;
+  margin-top: 24px;
+}
+
+.second {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-left: 52px;
+  margin-right: 52px;
+  margin-top: 48px;
+  margin-bottom: 48px;
+}
+
+footer {
+  background-color: #53535354;
+  height: 512px;
+  max-width: 1654px;
+  display: flex;
+  align-items: center;
+}
+p {
+  max-width: 306.05px;
+  color: #535353;
+  margin-top: 32px;
+  margin-bottom: 28px;
+}
+footer .align {
+  display: flex;
+}
+.media2 {
+  display: flex;
+  margin-top: 28px;
+}
+.infinity {
+  margin-left: 52px;
+  margin-right: 144.95px;
+}
+
+.foot {
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 24.2px;
+  color: rgba(30, 30, 30, 1);
+}
+
+.block2 .foot,
+.block3 .foot {
+  padding-left: 38px;
+}
+
+.block2 ul,
+.block3 ul {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16.94px;
+  margin-top: 71px;
+}
+
+.block2 li,
+.block3 li {
+  height: 48px;
+}
+.block2 {
+  margin-right: 254px;
+  color: #535353;
+}
+.block3 {
+  margin-right: 147px;
+  color: #535353;
+}
+.block4 button {
+  margin-top: 71px;
+  background-color: rgba(5, 74, 104, 1);
+  color: rgba(255, 255, 255, 1);
+  padding: 14px 16px 14px 16px;
+}
+footer .service {
+}
